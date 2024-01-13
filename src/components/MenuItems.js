@@ -92,7 +92,7 @@ const menuStyles = StyleSheet.create({
     backgroundColor: '#F4CE14',
   },
   sectionHeader: {
-    color: 'black,
+    color: 'black',
     fontSize: 26,
     flexWrap: 'wrap',
     textAlign: 'center',
