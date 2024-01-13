@@ -1,9 +1,9 @@
 import * as React from 'react';
 import { View, StyleSheet } from 'react-native';
 
-import LittleLemonHeader from './src/components/LittleLemonHeader';
-import LittleLemonFooter from './src/components/LittleLemonFooter';
-import MenuItems from './src/components/MenuItems';
+import LittleLemonHeader from './components/LittleLemonHeader';
+import LittleLemonFooter from './components/LittleLemonFooter';
+import MenuItems from './components/MenuItems';
 
 export default function App() {
   return (
